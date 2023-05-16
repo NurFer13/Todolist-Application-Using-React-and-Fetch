@@ -1,3 +1,9 @@
+# About this project:
+Todolist Application Using React and Fetch.
+This exercise is meant to be completed after the TODO list react application because the first part is the perfect boilerplate to start using API's.
+For this second part, we will sync our todo list with a real database, using the following RESTful and public API made for this exercise.
+This whole exercise is about asynchronous programming because the interactions from and to the server need to be done async. That way, the user does not have to wait for the information to arrive.
+
 # Hello World with React boilerplate
 
 Start coding a react application
