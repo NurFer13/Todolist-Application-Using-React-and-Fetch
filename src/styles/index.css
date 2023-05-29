@@ -47,12 +47,6 @@ ul li {
   margin-top: 6px;
 }
 
-footer {
+.bottom {
   margin-left: 35px;
-}
-
-btn {
-  display: inline-block;
-  background-color: palevioletred;
-  color: white;
 }

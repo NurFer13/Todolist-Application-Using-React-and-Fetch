@@ -38,7 +38,7 @@ const Home = () => {
           </li>
           {toDoList.map((item) => (
             <li key={item.id}>
-              {item.toDoList}
+              {item.todo}
 
               <i
                 className=" icono fas fa-trash"
